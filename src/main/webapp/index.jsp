@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World from cloudbots jar project..hiii good morning to everyone./...hii good afternoon to everyone..//..good evening to everyone..!</h2>
+<h2>Hello World from cloudbots jar project...!</h2>
 </body>
 </html>
